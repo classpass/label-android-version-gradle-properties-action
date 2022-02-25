@@ -1,4 +1,4 @@
-# Label iOS version from Info.plist action
+# Label Android version from gradle.properties action
 
 GitHub Action that labels your PR with the `VERSION_NAME` from your Android app's gradle.properties file.
 
